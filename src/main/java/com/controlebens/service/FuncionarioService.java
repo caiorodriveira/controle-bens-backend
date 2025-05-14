@@ -2,7 +2,6 @@ package com.controlebens.service;
 
 import java.util.Optional;
 
-import org.antlr.v4.runtime.atn.SemanticContext.AND;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
